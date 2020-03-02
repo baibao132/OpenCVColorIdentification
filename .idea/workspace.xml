@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c8c0d90a-e089-4376-a176-566aa079b345" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/opencv_310.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1583115325871.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20170410150617990.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B612Kaji_20200302_100026_956.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image 2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenCVColorIdentification.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/b.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OpenCVColorIdentification/META-INF/OpenCVColorIdentification.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OpenCVColorIdentification/com/ColorIdentification/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OpenCVColorIdentification/com/ColorIdentification/OpenCV.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/qq_pic_merged_1583115087818.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ColorIdentification/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ColorIdentification/OpenCV.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1YY9vIY1MkxGddIVJEfVSLuIL2E" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.ColorIdentification" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.ColorIdentification.Main" />
+      <module name="OpenCVColorIdentification" />
+      <option name="VM_PARAMETERS" value="-Djava.library.path=E:\2020\opencv\opencv\build\java\x64\" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c8c0d90a-e089-4376-a176-566aa079b345" name="Default Changelist" comment="" />
+      <created>1583108890014</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583108890014</updated>
+      <workItem from="1583108894890" duration="5821000" />
+      <workItem from="1583114766881" duration="1307000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583111244746">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="223" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.864@0.0.1536.864" timestamp="1583111244746" />
+    <state x="445" y="172" key="FileChooserDialogImpl" timestamp="1583116057138">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="445" y="172" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1583116057138" />
+    <state x="588" y="322" width="360" height="271" key="Github.ShareDialog" timestamp="1583115926821">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="588" y="322" width="360" height="271" key="Github.ShareDialog/0.0.1536.864@0.0.1536.864" timestamp="1583115926821" />
+    <state width="1493" height="223" key="GridCell.Tab.0.bottom" timestamp="1583115875704">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="223" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1583115875704" />
+    <state width="1493" height="223" key="GridCell.Tab.0.center" timestamp="1583115875703">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="223" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1583115875703" />
+    <state width="1493" height="223" key="GridCell.Tab.0.left" timestamp="1583115875703">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="223" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1583115875703" />
+    <state width="1493" height="223" key="GridCell.Tab.0.right" timestamp="1583115875704">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="223" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1583115875704" />
+    <state width="1493" height="277" key="GridCell.Tab.1.bottom" timestamp="1583114726787">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="277" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1583114726787" />
+    <state width="1493" height="277" key="GridCell.Tab.1.center" timestamp="1583114726787">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="277" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1583114726787" />
+    <state width="1493" height="277" key="GridCell.Tab.1.left" timestamp="1583114726787">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="277" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1583114726787" />
+    <state width="1493" height="277" key="GridCell.Tab.1.right" timestamp="1583114726787">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="277" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1583114726787" />
+    <state x="249" y="6" key="SettingsEditor" timestamp="1583111188018">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="249" y="6" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1583111188018" />
+    <state x="449" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1583114772987">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="449" y="256" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1583114772987" />
+  </component>
+</project>
