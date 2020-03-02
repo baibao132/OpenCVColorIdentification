@@ -2,28 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c8c0d90a-e089-4376-a176-566aa079b345" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/opencv_310.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1583115325871.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20170410150617990.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B612Kaji_20200302_100026_956.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Image 2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCVColorIdentification.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/a.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/b.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/OpenCVColorIdentification/META-INF/OpenCVColorIdentification.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/OpenCVColorIdentification/com/ColorIdentification/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/OpenCVColorIdentification/com/ColorIdentification/OpenCV.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/qq_pic_merged_1583115087818.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ColorIdentification/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ColorIdentification/OpenCV.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +27,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -114,10 +94,14 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="223" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.864@0.0.1536.864" timestamp="1583111244746" />
-    <state x="445" y="172" key="FileChooserDialogImpl" timestamp="1583116057138">
+    <state x="295" y="25" key="CommitChangelistDialog2" timestamp="1583117117411">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="445" y="172" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1583116057138" />
+    <state x="295" y="25" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1583117117411" />
+    <state x="445" y="172" key="FileChooserDialogImpl" timestamp="1583117105496">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="445" y="172" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1583117105496" />
     <state x="588" y="322" width="360" height="271" key="Github.ShareDialog" timestamp="1583115926821">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -158,6 +142,10 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="249" y="6" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1583111188018" />
+    <state x="361" y="165" key="Vcs.Push.Dialog.v2" timestamp="1583117127474">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="361" y="165" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1583117127474" />
     <state x="449" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1583114772987">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
