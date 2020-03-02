@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c8c0d90a-e089-4376-a176-566aa079b345" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="c8c0d90a-e089-4376-a176-566aa079b345" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -84,20 +82,32 @@
       <workItem from="1583108894890" duration="5821000" />
       <workItem from="1583114766881" duration="1307000" />
     </task>
+    <task id="LOCAL-00001" summary="OpenCVColorIdentification">
+      <created>1583117502418</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1583117502418</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="OpenCVColorIdentification" />
+    <option name="LAST_COMMIT_MESSAGE" value="OpenCVColorIdentification" />
   </component>
   <component name="WindowStateProjectService">
     <state x="223" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583111244746">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="223" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.864@0.0.1536.864" timestamp="1583111244746" />
-    <state x="295" y="25" key="CommitChangelistDialog2" timestamp="1583117117411">
+    <state x="295" y="25" key="CommitChangelistDialog2" timestamp="1583117499771">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="295" y="25" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1583117117411" />
+    <state x="295" y="25" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1583117499771" />
     <state x="445" y="172" key="FileChooserDialogImpl" timestamp="1583117105496">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -142,10 +152,10 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="249" y="6" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1583111188018" />
-    <state x="361" y="165" key="Vcs.Push.Dialog.v2" timestamp="1583117127474">
+    <state x="361" y="165" key="Vcs.Push.Dialog.v2" timestamp="1583117519695">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="361" y="165" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1583117127474" />
+    <state x="361" y="165" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1583117519695" />
     <state x="449" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1583114772987">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
